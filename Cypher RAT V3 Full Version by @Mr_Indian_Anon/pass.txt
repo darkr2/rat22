@@ -1,7 +1,0 @@
-name= Indian Watchdogs
-
-key= Telegram=@Mr_Indian_Anon
-
-Password= u009E\u0093.kLjw4iIsCLsZtxc4lksN0j();
-
-Internal Key = TxTxT
